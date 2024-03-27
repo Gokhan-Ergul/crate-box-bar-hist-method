@@ -1,4 +1,4 @@
-
+If you want to try please add datasetNA.txt and the R file in the same source.
 
 First of all I read the file and fixed something, and then we wrote our method for use our plot methods like barplot, I use only some method they are already written by R developer here is the methods:
 plot()
